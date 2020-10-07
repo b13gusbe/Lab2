@@ -1,0 +1,16 @@
+C:\Users\Gustav\source\repos\Lab2\ShapeTester\bin\Debug\netcoreapp3.1\ShapeTester.exe
+C:\Users\Gustav\source\repos\Lab2\ShapeTester\bin\Debug\netcoreapp3.1\ShapeTester.deps.json
+C:\Users\Gustav\source\repos\Lab2\ShapeTester\bin\Debug\netcoreapp3.1\ShapeTester.runtimeconfig.json
+C:\Users\Gustav\source\repos\Lab2\ShapeTester\bin\Debug\netcoreapp3.1\ShapeTester.runtimeconfig.dev.json
+C:\Users\Gustav\source\repos\Lab2\ShapeTester\bin\Debug\netcoreapp3.1\ShapeTester.dll
+C:\Users\Gustav\source\repos\Lab2\ShapeTester\bin\Debug\netcoreapp3.1\ShapeTester.pdb
+C:\Users\Gustav\source\repos\Lab2\ShapeTester\bin\Debug\netcoreapp3.1\ShapeLibrary.dll
+C:\Users\Gustav\source\repos\Lab2\ShapeTester\bin\Debug\netcoreapp3.1\ShapeLibrary.pdb
+C:\Users\Gustav\source\repos\Lab2\ShapeTester\obj\Debug\netcoreapp3.1\ShapeTester.csprojAssemblyReference.cache
+C:\Users\Gustav\source\repos\Lab2\ShapeTester\obj\Debug\netcoreapp3.1\ShapeTester.AssemblyInfoInputs.cache
+C:\Users\Gustav\source\repos\Lab2\ShapeTester\obj\Debug\netcoreapp3.1\ShapeTester.AssemblyInfo.cs
+C:\Users\Gustav\source\repos\Lab2\ShapeTester\obj\Debug\netcoreapp3.1\ShapeTester.csproj.CoreCompileInputs.cache
+C:\Users\Gustav\source\repos\Lab2\ShapeTester\obj\Debug\netcoreapp3.1\ShapeTester.csproj.CopyComplete
+C:\Users\Gustav\source\repos\Lab2\ShapeTester\obj\Debug\netcoreapp3.1\ShapeTester.dll
+C:\Users\Gustav\source\repos\Lab2\ShapeTester\obj\Debug\netcoreapp3.1\ShapeTester.pdb
+C:\Users\Gustav\source\repos\Lab2\ShapeTester\obj\Debug\netcoreapp3.1\ShapeTester.genruntimeconfig.cache
